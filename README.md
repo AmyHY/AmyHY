@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amy He</h1>
 <h3 align="center">A recent graduate from University of Illinois at Urbana-Champaign interested in Software Development and Hardware Programming</h3>
 
-<img height=300 width=400 align="right" src="https://tenor.com/l5aZNxU8ESU.gif">
+<img height=300 width=400 align="right" src="https://media.tenor.com/feBdQyCY0FMAAAAM/work.gif">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmyHYe&label=Profile%20views&color=0e75b6&style=flat" alt="AmyHY" /> </p> -->
 <!-- 
