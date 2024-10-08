@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amy He</h1>
-<h3 align="center">A recent graduate from University of Illinois at Urbana-Champaign interested in Software Development and Hardware Programming</h3>
+<h3 align="center">A recent Computer-Engineering graduate from University of Illinois at Urbana-Champaign interested in Software Development and Hardware Programming</h3>
 
 <img height=300 width=400 align="right" src="https://media.tenor.com/feBdQyCY0FMAAAAM/work.gif">
 
